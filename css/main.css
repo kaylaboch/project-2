@@ -6,7 +6,7 @@ html{
   box-sizing: inherit;
 }
 .top{
-  background-color: red;
+  background-color: #e7001d;
   position: relative;
   padding:.5em;
 }
@@ -36,7 +36,7 @@ h1{
   font-family: 'Montserrat', sans-serif;
 }
 .ul{
-  background-color: black;
+  background-color: #222222;
   padding:4em;
   list-style-type: none;
   margin: 0 auto;
@@ -93,7 +93,7 @@ a:hover{
 }
 .dragon{
   text-align: center;
-  background-color: gold;
+  background-color: #e4c22a;
   width: 100%;
   display:block;
   padding-bottom: 1em;
@@ -122,7 +122,7 @@ p{
 }
 .whiteh2{
   text-align: center;
-  background-color: black;
+  background-color: #222222;
   width: 100%;
   display:block;
   padding-bottom: 1em;
@@ -149,7 +149,7 @@ p{
 }
 .rooster{
   text-align: center;
-  background-color: red;
+  background-color: #e7001d;
   width: 100%;
   display:block;
   padding-bottom: 1em;
@@ -168,7 +168,7 @@ p{
 }
 .ox{
   text-align: center;
-  background-color: gold;
+  background-color: #e4c22a;
   width: 100%;
   display:block;
   padding-bottom: 1em;
@@ -188,7 +188,7 @@ p{
 }
 footer{
   width: 100%;
-  background-color: black;
+  background-color: #222222;
   display:block;
   padding:2em;
   text-align:center;
