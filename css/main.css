@@ -51,7 +51,7 @@ h1{
   float: right;
   text-decoration: none;
   color: white;
-  text-align: right;
+  text-align: left;
   clear: right;
   position: relative;
   display: block;
@@ -83,4 +83,24 @@ a:hover{
   width: 100%;
   font-style: italic;
   position:relative;
+}
+.dragon{
+  background-color: yellow;
+  width: 100%;
+  display:block;
+  padding-bottom: 1em;
+}
+.dsign{
+  float:left;
+  clear:left;
+  width:50%
+}
+.dsymbol{
+  float:right;
+  width: 50%;
+
+
+}
+p{
+  clear:both;
 }
