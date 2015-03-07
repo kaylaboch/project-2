@@ -40,12 +40,13 @@ h1{
   padding:4em;
   list-style-type: none;
   margin: 0 auto;
+  font-family: 'Montserrat', sans-serif;
 }
 .first{
   float:right;
   clear:right;
 }
-.second{
+.sec{
   float:left;
   clear: left;
 }
@@ -54,11 +55,11 @@ h1{
   text-decoration: none;
   color: white;
   text-align: left;
-  clear: right;
   position: relative;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
   font-family: 'Libre Baskerville', serif;
+  padding:0;
 }
 .second{
   float:left;
@@ -66,10 +67,8 @@ h1{
   text-decoration: none;
   color: white;
   position:relative;
-  display: block;
+  display: inline-block;
   margin: 0 auto;
-  padding: .2em;
-  margin-left: 0;
   text-align: left;
   font-family: 'Libre Baskerville', serif;
 }
