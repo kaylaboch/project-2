@@ -45,10 +45,12 @@ h1{
 .first{
   float:right;
   clear:right;
+  margin:0;
 }
 .sec{
   float:left;
   clear: left;
+  margin: 0;
 }
 .firstrow{
   float: right;
