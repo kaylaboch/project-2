@@ -23,6 +23,7 @@ h1{
   text-align:center;
   bottom: 1.5em;
   color: white;
+  font-family: 'Montserrat', sans-serif;
 
 }
 .main{
@@ -32,6 +33,7 @@ h1{
   color: white;
   bottom: 1.5em;
   display: block;
+  font-family: 'Montserrat', sans-serif;
 }
 .ul{
   background-color: black;
@@ -56,6 +58,7 @@ h1{
   position: relative;
   display: block;
   margin: 0 auto;
+  font-family: 'Libre Baskerville', serif;
 }
 .second{
   float:left;
@@ -68,6 +71,7 @@ h1{
   padding: .2em;
   margin-left: 0;
   text-align: left;
+  font-family: 'Libre Baskerville', serif;
 }
 a:hover{
   color:red;
@@ -83,6 +87,7 @@ a:hover{
   width: 100%;
   font-style: italic;
   position:relative;
+  font-family: 'Montserrat', sans-serif;
 }
 .dragon{
   text-align: center;
@@ -101,12 +106,17 @@ a:hover{
   float:right;
   width: 50%;
 }
+.pp{
+  font-family: 'Libre Baskerville', serif;
+}
 .ppp{
   text-align:center;
+  font-family: 'Libre Baskerville', serif;
 }
 p{
   clear:both;
   color:black;
+  font-family: 'Libre Baskerville', serif;
 }
 .whiteh2{
   text-align: center;
@@ -133,6 +143,7 @@ p{
 .pppp{
   clear:both;
   color:white;
+  font-family: 'Libre Baskerville', serif;
 }
 .rooster{
   text-align: center;
@@ -184,4 +195,5 @@ footer{
 .bottom{
   color:white;
   text-align:center;
+  font-family: 'Montserrat', sans-serif;
 }
