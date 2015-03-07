@@ -85,10 +85,12 @@ a:hover{
   position:relative;
 }
 .dragon{
-  background-color: yellow;
+  text-align: center;
+  background-color: gold;
   width: 100%;
   display:block;
   padding-bottom: 1em;
+  padding-top: 1em;
 }
 .dsign{
   float:left;
@@ -98,9 +100,88 @@ a:hover{
 .dsymbol{
   float:right;
   width: 50%;
-
-
+}
+.ppp{
+  text-align:center;
 }
 p{
   clear:both;
+  color:black;
+}
+.whiteh2{
+  text-align: center;
+  background-color: black;
+  width: 100%;
+  display:block;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+.goat{
+  text-align:center;
+  color: white;
+}
+.gsymbol{
+  float:left;
+  clear:left;
+  width: 50%;
+}
+.gsign{
+  float:right;
+  clear:right;
+  width:50%;
+}
+.pppp{
+  clear:both;
+  color:white;
+}
+.rooster{
+  text-align: center;
+  background-color: red;
+  width: 100%;
+  display:block;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  color:white;
+}
+.rsymbol{
+  float:left;
+  clear:left;
+  width: 50%;
+}
+.rsign{
+  float:right;
+  clear:right;
+  width:50%;
+}
+.ox{
+  text-align: center;
+  background-color: gold;
+  width: 100%;
+  display:block;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  color:black;
+}
+.osign{
+  float:left;
+  clear:left;
+  width:50%;
+
+}
+.osymbol{
+  float:right;
+  clear:right;
+  width: 50%;
+}
+footer{
+  width: 100%;
+  background-color: black;
+  display:block;
+  padding:2em;
+  text-align:center;
+
+}
+.bottom{
+  color:white;
+  text-align:center;
 }
