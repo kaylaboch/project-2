@@ -41,6 +41,7 @@ h1{
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   overflow:hidden;
+  padding:.5em;
 }
 ul{
   list-style-type: none;
