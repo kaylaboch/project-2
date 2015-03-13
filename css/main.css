@@ -45,7 +45,6 @@ h1{
 ul{
   list-style-type: none;
   text-align: left;
-  padding: 0;
 }
 
 .ul li {
@@ -107,6 +106,7 @@ p{
   clear:both;
   color:black;
   font-family: 'Libre Baskerville', serif;
+  margin:.5em;
 }
 .whiteh2{
   text-align: center;
