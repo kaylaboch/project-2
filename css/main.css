@@ -37,42 +37,30 @@ h1{
 }
 .ul{
   background-color: #222222;
-  padding:4em;
-  list-style-type: none;
   margin: 0 auto;
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
+  overflow:hidden;
 }
-.first{
-  float:right;
-  clear:right;
-  margin:0;
+ul{
+  list-style-type: none;
+  text-align: left;
+  padding: 0;
 }
-.sec{
+
+.ul li {
   float:left;
-  clear: left;
-  margin: 0;
+  width:50%;
 }
+
 .firstrow{
-  float: right;
   text-decoration: none;
   color: white;
-  text-align: left;
-  position: relative;
-  display: inline-block;
-  margin: 0 auto;
   font-family: 'Libre Baskerville', serif;
-  padding:0;
 }
 .second{
-  float:left;
-  clear:left;
   text-decoration: none;
   color: white;
-  position:relative;
-  display: inline-block;
-  margin: 0 auto;
-  text-align: left;
   font-family: 'Libre Baskerville', serif;
 }
 a:hover{
@@ -82,7 +70,7 @@ a:hover{
   width:100%;
 }
 .Shen{
-  position: absolute;
+
   bottom: 2.5em;
   color:white;
   text-align: center;
