@@ -41,27 +41,36 @@ h1{
   font-family: 'Montserrat', sans-serif;
   font-size: 1rem;
   overflow:hidden;
-  padding:.5em;
 }
 ul{
-  list-style-type: none;
   text-align: left;
+  margin: 0;
+  width:100%;
+  padding: 0;
 }
 
 .ul li {
   float:left;
   width:50%;
+  border: solid 1px black;
+  padding: 1em;
+  margin: 0;
+  padding-left:0;
+  list-style-type: none;
 }
 
 .firstrow{
   text-decoration: none;
   color: white;
   font-family: 'Libre Baskerville', serif;
+  bottom:.5em;
+
 }
 .second{
   text-decoration: none;
   color: white;
   font-family: 'Libre Baskerville', serif;
+  bottom:.5em;
 }
 a:hover{
   color:red;
@@ -102,6 +111,10 @@ a:hover{
 .ppp{
   text-align:center;
   font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+}
+.ppppp{
+  font-style: italic;
 }
 p{
   clear:both;
@@ -135,6 +148,7 @@ p{
   clear:both;
   color:white;
   font-family: 'Libre Baskerville', serif;
+  font-style: italic;
 }
 .rooster{
   text-align: center;
